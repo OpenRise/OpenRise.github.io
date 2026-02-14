@@ -1,1 +1,1 @@
-[OpenRise.github.io](OpenRise.github.io)
+https://www.OpenRise.github.io
