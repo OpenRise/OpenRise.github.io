@@ -1,0 +1,15 @@
+title: OpenRise Documentation
+description: Linux için açık kaynak kodlu CraftRise Launcher.
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+search_enabled: true
+search:
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+
+gh_edit_repository: "https://github.com/OpenRise/OpenRise.github.io"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
+nav_sort: "nav_order"
