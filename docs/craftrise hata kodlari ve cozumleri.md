@@ -1,13 +1,8 @@
 ---
-
 layout: default
-
 title: CraftRise Hata Kodları Ve Çözümleri
-
-parent: Protokoller
-
-nav_order: 1
-
+nav_order: 2
+has_children: true
 ---
 
 # CraftRise Hata Kodları Ve Çözümleri
